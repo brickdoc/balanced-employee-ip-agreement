@@ -1,75 +1,62 @@
-# Balanced Employee Intellectual Property Agreement 1.0.1-oortcast-patch1
+> 知识产权权衡协议（BEIPA）最早由 GitHub Inc 发起，旨在就知识产权的归属问题在公司和员工（或合作伙伴）之间保证平等和共赢。如果您之前曾在科技业工作，那么您很可能签署过类似性质的协议。但与之不同的是，使用 BEIPA 的公司不会试图获取您在业余时间所完成的知识产权或作品的所有权，也不试图将公司的控制权延长到雇佣之外。我们将 BEIPA 视为对员工自主性和"工作与生活平衡"的承诺。
+>
+> 举例来说，对于 BEIPA 而言如果你开发了一个能够提升数倍服务器性能的算法而这仅仅是处于你的个人兴趣，并非公司所明确要求你完成的工作任务或你为了完成公司要求的其他工作任务而进行的尝试。那么该算法的知识产权将毫无疑问的归属于你——即便你可能使用了公司提供的设备或场地。但如果你将这一知识产权使用在你的职务作品当中，那么你将自动授予公司不可撤销的、全球适用、无任何费用且可以转许可的使用权。
+>
+> 以上内容仅作为《知识产权权衡协议》的序言，并不构成协议的组成部分，如与下方协议文本内容存在不一致之处则以下方具体文本为准。
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between person named below and [COMPANY NAME], a company registered in the [People's Republic of China / Repulic of Estonia / Republic of Singapore] ("Company").
+# 知识产权权衡协议
 
-**What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company.
+甲方（用人单位）：[PALCEHOLDER]
 
-**Why is this?** The Company needs to be clear on what IP it owns and has rights to. Its customers, employees, and investors depend on the Company having the legal rights to the products and services it is providing so that the Company can continue operating and doing business.
+统一信用代码：[PALCEHOLDER]
 
-The Company also believes that it's important to be clear on what it doesn't own. The Company doesn't want you looking over your shoulder every time you work on something personal or worrying that the Company will someday seize your open source non-lethal mousetrap simulation software. In other words, the Company isn't interested in appropriating your personal projects.
+法定代表人：[PALCEHOLDER]
 
-**Read this.** Please read this document and be sure you understand it before you sign it. Due to legal risk and corporate obligations, the Company cannot, by and large, negotiate its terms. If you feel you have a particular circumstance that keeps you from signing, please let the Company's legal department ("Legal") know. And, of course, you're always free and encouraged to get your own legal counsel to explain anything you're not clear on.
+注册地址：[PALCEHOLDER]
 
-Cool? Then, by signing this Agreement, and as a condition of your employment, you agree to the following:
+乙方：
 
-1. **What the Company owns.** The Company owns any IP ("Company IP") that you create, or help create _as its employee or contractor_, but only if it meets one or more of these additional conditions: The IP was (i) related to an existing or prospective Company product or service at the time you developed, invented, or created it, (ii) developed for use by the Company, or (iii) developed or promoted with existing Company IP or with the Company's endorsement. You hereby grant and assign, and will grant and assign, to the Company all rights and interests in all Company IP.
+身份证件类型：[PALCEHOLDER]
 
-   "Company IP" includes concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, and works of authorship.
+身份证件号码：[PALCEHOLDER]
 
-2. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, or works of authorship that you develop, invent, or create that do not meet any of the conditions in Section 1. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
+联系电话：[PALCEHOLDER]
 
-   The Company also doesn't own IP excluded by laws such as those listed in Exhibit A. You acknowledge you have reviewed Exhibit A and have read those laws applicable to you.
-
-3. **Contribution of your IP to Company projects.** If you include your own IP – such as IP you created prior to working for the Company – into a Company product or service, it's still yours, of course, but you grant the Company a non-exclusive, irrevocable, fully paid-up, royalty-free, perpetual, sublicensable, transferable, worldwide license to use it without restriction in any way or implementation, in modified form, or as is, by itself, or incorporated into another product or service ("License"). If you include your name in any project over which the Company would have rights under this Agreement, such as in a copyright notice or a comment in code or documentation, then the License covers the rights associated with that use of your name as well.
-
-4. **Your contributions to non-Company projects.** The Company recognizes that you may be engaged in work that requires you to submit IP to entities other than the Company, such as open source projects used by the Company. Please make sure that Legal is aware of what you're working on so that Legal can help with any licensing issues. If any project asks you to sign a contribution agreement, you should check with Legal before doing so. These agreements may be legally binding on the Company and so should be run through Legal first.
-
-5. **Works made for hire.** All Company IP that you are involved with or create as part of your work for the Company is duty work(职务作品) under Copyright Law of the People's Republic of China and compensated by your regular salary or pay.
-
-6. **No conflicts.** You agree that you don't have any outstanding agreements or obligations that conflict with those in this Agreement, and that you won't enter into conflicting agreements in the future.
-
-7. **IP protection.** The Company might someday need to show the work that went into the development of IP that it uses or has used, or to make government filings to establish that it owns the IP or has rights over it. To help in those situations, you agree not to destroy any records you maintain relating to the development of any Company IP or IP under License (together, "All IP"), and, if the Company asks, to provide those records to the Company. You agree to help the Company secure and defend its rights in All IP, including after you leave the Company. For your help the Company will compensate you at a reasonable rate. If the Company is unable to secure your help, you authorize the Company to act on your behalf (as your agent and attorney-in-fact) in securing all rights related to All IP.
-
-8. **Confidentiality.** As an employee or contractor of the Company, you will have access to sensitive confidential information that is important to the Company's business. You are responsible for keeping this information confidential, including after you end your work for the Company.
-
-   "Confidential Information" includes non-public technical details about our products or services, financial information, business strategies and forecasts, customer data, or any other information, data or know-how that is valuable to the Company because it is not publicly known.
-
-   The Company's Confidential Information is sensitive and we expect that you'll treat it as such. You agree to only use the Company's Confidential Information for the purpose of performing your job and for the benefit of the Company. You will do your best to keep Confidential Information secret. If you are not sure if something is Confidential Information, you should assume that it is, until you can confirm otherwise.
+邮箱：[PALCEHOLDER]
 
 
-Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-Sign: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+甲方是一家在中华人民共和国并持续经营的公司，因乙方现正在为甲方提供服务和履行职务已经(或将要)知悉甲方的商业秘密。甲乙上方根据有关法律、法规，在遵循平等自愿、诚实信用的原则下，就乙方为甲方服务期间及（终止提供服务(或终止履行职务)后的有关事项达成如下协议：
 
-Date: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+一、为本协议之目的，“知识产权”是指已注册和未注册的、包括进行了注册申请的专利、专利申请权、商标、服务标志、标识、形象、商号、互联网域名、设计权、版权(包括计算机软件的版权)、数据库权利、半导体设计图权利、实用新型、专有技术和其他知识产权，以及在世界各地相同或相似效果的其他所有的权利或保护形式，不论其表现为何种形式，记载于何种载体。
 
----
+“职务作品”是指乙方为完成甲方的工作任务而创作的作品，包括但不限于：所有作品、论文、报告、文件、图画、肖像、产品理念、服务理念、照片、底片、录音/像带和母带、电脑程序、源代码、结果代码、原型、研究数据和文件、样本、日志、报告和其他材料（总称“职务产品”）。
 
-## Exhibit A: Laws Concerning Employment Agreements and Intellectual Property Assignment
+二、有下列条件情况之一的，乙方完成的知识产权和职务作品全部属于甲方：
 
-### China
+   1. 受聘期间在本职工作中完成的知识产权和职务作品；
+   2. 履行甲方所安排的本职工作之外的任务所研发的知识产权和职务作品；
 
-#### COPYRIGHT LAW OF THE PEOPLE'S REPUBLIC OF CHINA 
+三、乙方如在完成归属于甲方的知识产权和职务作品过程中使用了属于乙方的知识产权的，该知识产权仍被视为乙方所有，但乙方需要授予甲方不可撤销、免费、永久、可转授权且全球适用的使用许可。
 
-Article 16: A work created by a citizen in the fulfillment of tasks assigned to him by a legal
-person or entity without legal personality shall be deemed to be a work created in the course of
-employment. The copyright in such a work shall， subject to the provisions of the second
-paragraph of this Article，be enjoyed by the author， provided that the legal person or entity
-without legal personality shall have a right of priority to exploit the work within the scope of its
-professional activities.
+四、乙方承诺，在任何时间，仅为甲方利益、并按甲方所要求的方式使用本协议第一条规定的知识产权和职务作品；非经甲方的书面授权，不对其作任何形式的处分/处置。在与甲方的聘用关系解除或者终止后，立即停止对前述知识产权和职务作品的一切使用行为。
 
- During the two years after the completion of the work， the author may not， without the
-consent of the legal person or entity without legal personality， authorize a third party to exploit
-the work int the same way as the legal person or entity without legal personality does.
-The author of a work created in the course of employment in one of the following circumstances
-shall enjoy the right of authorship， while the legal person or entity without legal personality
-shall enjoy the other rights included in the copyright and may reward the author：
+五、如乙方未遵守上述各项协议内容，盗取、泄密、侵犯本协议所述的“知识产权”和“职务作品”，属于违反职业道德和侵犯甲方知识产权的违法行为。经甲方查实，乙方应为这种不法行为向甲方支付违约金、承担全部经济赔偿以及法律规定的其它责任。违约金的数额为乙方在甲方供职期间税前劳务所得总额的30％， 最高为违约事由发生前乙方一年的税前劳务所得，最低为违约事由发生前乙方三个月的税前劳务所得。
 
-（1） drawings of engineering designs and product designs and descriptions thereof；
-computer software； maps and other works created in the course of employment mainly with the
-material and technical resources of the legal person or entity without legal personality and under
-its responsibility；
+六、乙方承诺，在受聘期间，不侵犯本协议第一条所列知识产权和职务作品，不侵犯第三方知识产权，否则将承担由此而引发的相应的法律责任和经济赔偿责任。
 
-（2） works created in the course of employment where the copyright is， in accordance
-with laws， administrative rules and regulations or contracts concerned， enjoyed by the legal
-person or entity without legal personality. 
+七、乙方声明，此前未曾与第三方签署过任何包含“竞业禁止”条款的合同； 或者其已与曾经签署“竞业禁止”条款的第三方以适当方式解除了该等“竞业禁止”义务。 前款所谓“竞业禁止”条款，是指任何第三方限定乙方不得从事甲方现有工作的条款。 如因乙方违反上述声明导致甲方被第三方指控连带侵权，乙方应承担与此有关的全部法律责任和经济赔偿责任。
+
+八、在乙方的聘用期限内，乙方不得参与与甲方有竞争性的本职工作以外的活动(事先得到甲方许可的除外)，竞争性活动指从事与甲方现从事的业务相同/类似业务活动，或在与甲方从事相同/类似业务的任何单位任职，包括但不限于以兼职、顾问、股东、董事、监事、合伙人、投资人、提供劳务/咨询/服务等任何形式。
+
+九、本协议可由甲方转让给甲方的子公司、分支机构或办事机构，当乙方在上述机构之间被调任时，本协议自动被转让至新的聘用单位而无需由乙方另行签署。如新的聘用单位提出要求，乙方亦同意直接与其签署新的协议。
+
+十、本协议作为乙方受聘于甲方的必备文件，经双方签章后生效。正式文本两份，双方各执一份。有效期为乙方在甲方任职或提供服务的全部期间以及乙方与甲方的服务关系解除或终止之后五年； 甲方得以书面方式将本协议解除或者终止。
+
+十一、双方在本协议签署之前签署的其他协议与本协议不符的，以本协议为准。
+
+
+甲方盖章：
+
+
+乙方签名：
